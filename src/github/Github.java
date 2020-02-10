@@ -20,7 +20,8 @@ package github;
 /**
  *
  * @author Ramanpreet Matharu
- * @author Jagdeep Matharu
+ * This is my latest file
+ * 
  */
 public class Github {
 
