@@ -20,6 +20,7 @@ package github;
 /**
  *
  * @author Ramanpreet Matharu
+ * @author Jagdeep Matharu
  */
 public class Github {
 
